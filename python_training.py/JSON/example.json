@@ -1,0 +1,30 @@
+{
+    "employees": [
+      {
+        "name": "Alice",
+        "age": 28,
+        "department": "HR",
+        "skills": ["Communication", "Recruitment", "Employee Relations"]
+      },
+      {
+        "name": "Bob",
+        "age": 34,
+        "department": "Engineering",
+        "skills": ["Python", "Machine Learning", "Data Science"]
+      },
+      {
+        "name": "Charlie",
+        "age": 25,
+        "department": "Marketing",
+        "skills": ["SEO", "Content Writing", "Social Media"]
+      }
+    ],
+    "company": {
+      "name": "Tech Solutions Ltd",
+      "location": "San Francisco",
+      "founded": 2010
+    },
+    "remote_work": true,
+    "open_positions": 5
+  }
+  
