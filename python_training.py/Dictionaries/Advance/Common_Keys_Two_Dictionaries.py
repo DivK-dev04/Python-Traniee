@@ -7,3 +7,9 @@
 
 dict1 = {'a': 1, 'b': 2, 'c': 3}
 dict2 = {'b': 4, 'c': 5, 'd': 6}
+
+common = []
+for key in dict1:
+    if key in dict2:
+        common.append(key)
+print(common)
